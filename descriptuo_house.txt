@@ -1,0 +1,7 @@
+1.Details
+Type Apartment 
+Area 1,250  Sq. Ft. 
+ Price BDT 17,000 
+ PurposeTo Rent
+ Bedroom(s)3 Bath(s)3 
+ LocationKallyanpur, Mirpur, DhakaBath(s)3
